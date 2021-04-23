@@ -44,7 +44,7 @@ experience:
   - title: Research Specialist, Supervised by Beatriz Luna, Ph.D. & Michael Hallquist, Ph.D.
     company: University of Pittsburgh Medical Center - Western Psychiatric Institute & Clinic
     company_url: 'https://lncd.pitt.edu/wp/'
-    company_logo: stanford
+    company_logo: org-x
     location: Pennsylvania
     date_start: '2012-07-01'
     date_end: '2015-08-31'
