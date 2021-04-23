@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Adolescent Internalizing Disorders
-    tag: Internalizing Disorders
+  - name: Adolescent Depression
+    tag: Internalizing Depression
   - name: Early Life Stress
     tag: Early Life Stress
   - name: Puberty
