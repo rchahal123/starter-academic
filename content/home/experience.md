@@ -41,14 +41,7 @@ experience:
     description: |2- 
     Examined topographical signatures in white matter tracts as they reflect the history of depressive symptoms in adolescent girls, and patterns of functional connectivity, revealed by neural biotyping, as they forecast future internalizing symptoms in at-risk adolescents.
     
-  - title: Research Specialist (Supervisors: Beatriz Luna, Ph.D., Michael Hallquist, Ph.D.)
-    company: University of Pittsburgh Medical Center - Western Psychiatric Institute and Clinic
-    company_url: 'https://lncd.pitt.edu/wp/'
-    location: Pennsylvania
-    date_start: '2012-06-01'
-    date_end: '2015-06-30'
-    description: |2- 
-    Coordinated recruitment efforts and collected data for multiple longitudinal studies investigating cognitive development in typically-developing and at-risk children, adolescents, and adults. Tested subjects on behavioral and imaging protocols using eye-tracking, fMRI, MEG, and PET. Examined neural influences on incentive processing and inhibitory control and contributed to a review of literature on cognitive control development.
+
     
 design:
   columns: '2'
