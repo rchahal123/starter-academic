@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: Adolescent depression is a growing problem. How can neuroimaging help?
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
