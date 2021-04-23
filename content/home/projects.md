@@ -27,10 +27,17 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Adolescent Internalizing Disorders
+    tag: Internalizing Disorders
+  - name: Early Life Stress
+    tag: Early Life Stress
+  - name: Puberty
+    tag: Puberty
+  - name: Brain Functional Connectivity
+    tag: Functional Connectivity
+  - name: Brain Structural Connectivity
+    tag: Structural Connectivity
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
