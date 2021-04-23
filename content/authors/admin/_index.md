@@ -14,7 +14,7 @@ organizations:
   url: https://profiles.stanford.edu/rajpreet-chahal/
 
 # Short bio (displayed in user profile at end of posts)
-Bio: I am a translational neuroscientist in training investigating neurodevelopmental pathways that contribute to psychopathology risk and resilience in adolescence. Specifically, I leverage multimodal neuroimaging methods to characterize long-term relations among experiential risk, brain development, and the onset and maintenance of depression and internalizing symptoms during the pubertal phase. The goal of this translational research is to provide the foundation for future studies that target specific neural systems to develop more effective person-centered interventions.
+Bio: Translational neuroscientist studying brain development and psychopathology during puberty.
 
 # Interests to show in About widget
 Interests:
