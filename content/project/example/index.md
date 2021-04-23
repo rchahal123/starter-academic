@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: Adolescent Depression: A Growing Problem.
+title: Adolescent Depression
+summary: Adolescent Depression is a Growing Problem: Brain Imaging May Help.
 tags:
 - Adolescent Depression
 date: "2016-04-27T00:00:00Z"
@@ -19,7 +19,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 The onset of depression peaks during adolescence (Bagalman and Cornell, 2018). According to the National Comorbidity Survey, the 12 month prevalence of mental disorders in adolescence is 40.3%, and still another 40% with depression often go undetected (Stein and Fazel, 2015). In the past decade, the number of adolescents who have depression has risen sharply, particularly in females (Twenge, 2020). Accordingly, the number of youth presenting at speciality outpatient mental health settings with emotional difficulties like depression and suicidal thoughts continues to increase (Mojtabai and Olfson, 2020), placing a growing demand on mental health resources. Surprsingly, Even though the number of youth with depression and in need of specialty care has increased, we continue to see that most adolescents don't benefit from available treatments (Michael and Crowley, 2002). 
