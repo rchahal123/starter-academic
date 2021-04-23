@@ -25,7 +25,6 @@ experience:
   - title: NIH F32 & Klingenstein Foundation Postdoctoral Scholar (Supervisor: Ian Gotlib, Ph.D.)
     company: Department of Psychology, Stanford University
     company_url: 'https://profiles.stanford.edu/rajpreet-chahal'
-    company_logo: stanford
     location: California
     date_start: '2019-09-01'
     date_end: ''
@@ -35,7 +34,6 @@ experience:
   - title: Graduate Student & TL1 Pre-doctoral Clinical Training Scholar (Supervisor: Amanda Guyer, Ph.D.)
     company: University of California Davis
     company_url: 'https://humandevelopment.ucdavis.edu/alumni-phd-human-development'
-    company_logo: ucd
     location: California
     date_start: '2015-09-01'
     date_end: '2019-08-31'
@@ -45,7 +43,6 @@ experience:
   - title: Research Specialist (Supervisors: Beatriz Luna, Ph.D., Michael Hallquist, Ph.D.)
     company: University of Pittsburgh Medical Center - Western Psychiatric Institute and Clinic
     company_url: 'https://lncd.pitt.edu/wp/'
-    company_logo: upmc
     location: Pennsylvania
     date_start: '2012-06-01'
     date_end: '2015-06-30'
