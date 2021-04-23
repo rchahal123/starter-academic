@@ -48,7 +48,7 @@ experience:
     location: Pennsylvania
     date_start: '2012-07-01'
     date_end: '2015-08-31'
-    description: Coordinated recruitment efforts and collected data for multiple longitudinal studies investigating cognitive development in typically-developing and at-risk children, adolescents, and adults. Tested subjects on behavioral and imaging protocols using eye-tracking, fMRI, MEG, and PET. Examined neural influences on incentive processing and inhibitory control and contributed to a review of literature on cognitive control development.
+    description: Coordinated recruitment efforts and collected data for multiple longitudinal studies investigating cognitive development in typically-developing and at-risk children, adolescents, and adults. Tested subjects on behavioral and imaging protocols using eye-tracking, fMRI, MEG, and PET. Examined neural influences on incentive processing and inhibitory control during adolescence.
     
   - title: Research Assistant, Supervised by Joy Geng, Ph.D.
     company: Center for Mind & Brain, University of California, Davis
@@ -57,7 +57,7 @@ experience:
     location: California
     date_start: '2011-06-01'
     date_end: '2012-06-01'
-    description: Recruited participants and administered eye-tracking studies exploring incentive influences on attentional control in young adults. Analyzed behavioral data and presented poster on findings.
+    description: Administered eye-tracking studies and ran behavioral analyses exploring incentive influences on attentional control in young adults. 
     
 design:
   columns: '2'
