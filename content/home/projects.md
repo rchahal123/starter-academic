@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Adolescent Depression
-    tag: Internalizing Depression
+    tag: Adolescent Depression
   - name: Early Life Stress
     tag: Early Life Stress
   - name: Puberty
