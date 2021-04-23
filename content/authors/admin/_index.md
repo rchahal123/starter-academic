@@ -27,10 +27,10 @@ education:
   courses:
   - course: Ph.D. in Human Development with Designated Emphasis in Translational Science
     institution: University of California Davis
-    year: 2019
+    year: 2015-2019
   - course: B.S. in Psychology with Emphasis in Biology
     institution: University of California Davis
-    year: 2012
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
