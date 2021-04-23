@@ -3,7 +3,7 @@ title: Adolescent Depression
 summary: Adolescent depression is a growing problem. How can neuroimaging help?
 tags:
 - Adolescent Depression
-date: "2016-04-27T00:00:00Z"
+date: "2021-04-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
