@@ -32,7 +32,7 @@ experience:
     date_end: ''
     description: Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
         
-  - title: Graduate Student & TL1 Pre-doctoral Clinical Training Scholar, Supervised by Amanda Guyer, Ph.D.
+  - title: TL1 Pre-doctoral Clinical Training Scholar, Supervised by Amanda Guyer, Ph.D.
     company: University of California, Davis
     company_url: 'https://humandevelopment.ucdavis.edu/alumni-phd-human-development'
     company_logo: org-x
@@ -41,14 +41,14 @@ experience:
     date_end: '2019-06-30'
     description: Examined topographical signatures in white matter tracts as they reflect the history of depressive symptoms in adolescent girls, and patterns of functional connectivity, revealed by neural biotyping, as they forecast future internalizing symptoms in at-risk adolescents.
     
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Specialist, Supervised by Beatriz Luna, Ph.D. & Michael Hallquist, Ph.D.
+    company: University of Pittsburgh Medical Center - Western Psychiatric Institute & Clinic
+    company_url: 'https://lncd.pitt.edu/wp/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Pennsylvania
+    date_start: '2012-07-01'
+    date_end: '2015-08-31'
+    description: Coordinated recruitment efforts and collected data for multiple longitudinal studies investigating cognitive development in typically-developing and at-risk children, adolescents, and adults. Tested subjects on behavioral and imaging protocols using eye-tracking, fMRI, MEG, and PET. Examined neural influences on incentive processing and inhibitory control and contributed to a review of literature on cognitive control development.
     
 design:
   columns: '2'
