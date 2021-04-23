@@ -35,7 +35,7 @@ experience:
   - title: TL1 Pre-doctoral Clinical Training Scholar, Supervised by Amanda Guyer, Ph.D.
     company: Center for Mind & Brain & University of California, Davis Health System
     company_url: 'https://mindbrain.ucdavis.edu/research/research-labs-folder/guyer-lab-splash'
-    company_logo: aggies
+    company_logo: davis
     location: California
     date_start: '2015-09-01'
     date_end: '2019-06-30'
@@ -44,7 +44,7 @@ experience:
   - title: Research Specialist, Supervised by Beatriz Luna, Ph.D. & Michael Hallquist, Ph.D.
     company: University of Pittsburgh Medical Center - Western Psychiatric Institute & Clinic
     company_url: 'https://lncd.pitt.edu/wp/'
-    company_logo: upmc
+    company_logo: pitt
     location: Pennsylvania
     date_start: '2012-07-01'
     date_end: '2015-08-31'
