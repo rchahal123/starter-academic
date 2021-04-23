@@ -25,21 +25,21 @@ date_format: Jan 2006
 experience:
   - title: NIH F32 & Klingenstein Foundation Postdoctoral Scholar, Supervised by Ian Gotlib, Ph.D.
     company: Department of Psychology, Stanford University
-    company_url: ''
+    company_url: 'https://profiles.stanford.edu/rajpreet-chahal'
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
     description: Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Graduate Student & TL1 Pre-doctoral Clinical Training Scholar, Supervised by Amanda Guyer, Ph.D.
+    company: University of California, Davis
+    company_url: 'https://humandevelopment.ucdavis.edu/alumni-phd-human-development'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2015-09-01'
+    date_end: '2019-06-30'
+    description: Examined topographical signatures in white matter tracts as they reflect the history of depressive symptoms in adolescent girls, and patterns of functional connectivity, revealed by neural biotyping, as they forecast future internalizing symptoms in at-risk adolescents.
     
   - title: Professor of Semiconductor Physics
     company: University X
