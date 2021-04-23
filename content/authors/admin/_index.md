@@ -24,13 +24,13 @@ interests:
 
 # Education to show in About widget
 education:
-courses:
+  courses:
   - course: Ph.D. in Human Development with Designated Emphasis in Translational Science
-    institution: University of California, Davis
-    year: 2015-2019
+    institution: University of California Davis
+    year: 2019
   - course: B.S. in Psychology with Emphasis in Biology
-    institution: University of California, Davis
-    year: 2008-2012
+    institution: University of California Davis
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +73,4 @@ highlight_name: true
 
 I am a translational neuroscientist in training investigating neurodevelopmental pathways that contribute to psychopathology risk and resilience in adolescence. Specifically, I leverage multimodal neuroimaging methods to characterize long-term relations among experiential risk, brain development, and the onset and maintenance of depression and internalizing symptoms during the pubertal phase. The goal of this translational research is to provide the foundation for future studies that target specific neural systems to develop more effective person-centered interventions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
