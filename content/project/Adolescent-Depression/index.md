@@ -9,7 +9,7 @@ date: "2021-04-23T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Anh Nguyen on Unsplash
+  caption: Photo by @ericjamesward on Unsplash
   focal_point: Smart
 
 links:
