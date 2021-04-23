@@ -6,12 +6,12 @@ name = "Minimal"
 light = true
 
 # Primary
-primary = "#ffffff"
+primary = "#000000"
 
 # Menu
 menu_primary = "#000000"
 menu_text = "#ffffff"
-menu_text_active = "#c0c0c0"
+menu_text_active = "#C0C0C0"
 menu_title = "#ffffff"
 
 # Home sections
@@ -19,5 +19,5 @@ home_section_odd = "ffffff"
 home_section_even = "ffffff"
 
 [dark]
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#000000"
+  link_hover = "#C0C0C0"
