@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rajpreet Chahal, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Stanford University
-  url: https://www.stanford.edu/
+  url: https://profiles.stanford.edu/rajpreet-chahal/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+Bio: I am a translational neuroscientist in training investigating neurodevelopmental pathways that contribute to psychopathology risk and resilience in adolescence. Specifically, I leverage multimodal neuroimaging methods to characterize long-term relations among experiential risk, brain development, and the onset and maintenance of depression and internalizing symptoms during the pubertal phase. The goal of this translational research is to provide the foundation for future studies that target specific neural systems to develop more effective person-centered interventions.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Interests:
+- Adolescent Psychopathology
+- Developmental Neuroscience
+- Multimodal Brain Imaging Methods
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+Education:
+
+  - course: Ph.D. in Human Development with Designated Emphasis in Translational Science
+    institution: University of California, Davis
+    year: 2015-2019
+  - course: B.S. in Psychology with Emphasis in Biology
+    institution: University of California, Davis
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,33 +42,35 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/Rajpreet_Chahal
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=c5tyozkAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/rajpreet-chahal-ph-d-18406160/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Rajpreet-Chahal
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a translational neuroscientist in training investigating neurodevelopmental pathways that contribute to psychopathology risk and resilience in adolescence. Specifically, I leverage multimodal neuroimaging methods to characterize long-term relations among experiential risk, brain development, and the onset and maintenance of depression and internalizing symptoms during the pubertal phase. The goal of this translational research is to provide the foundation for future studies that target specific neural systems to develop more effective person-centered interventions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
