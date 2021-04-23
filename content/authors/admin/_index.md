@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: uploads/resume.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +73,4 @@ highlight_name: true
 
 I am a translational neuroscientist in training investigating neurodevelopmental pathways that contribute to psychopathology risk and resilience in adolescence. Specifically, I leverage multimodal neuroimaging methods to characterize long-term relations among experiential risk, brain development, and the onset and maintenance of depression and internalizing symptoms during the pubertal phase. The goal of this translational research is to provide the foundation for future studies that target specific neural systems to develop more effective person-centered interventions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
