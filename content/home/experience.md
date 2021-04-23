@@ -23,7 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: NIH F32 & Klingenstein Foundation Postdoctoral Scholar (Supervisor: Ian Gotlib, Ph.D.)
+  - title: |2-
+  NIH F32 & Klingenstein Foundation Postdoctoral Scholar
+  Supervised by Ian Gotlib, Ph.D.
     company: Department of Psychology, Stanford University
     company_url: ''
     company_logo: org-gc
