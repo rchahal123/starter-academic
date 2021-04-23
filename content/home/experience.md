@@ -33,9 +33,9 @@ experience:
     description: Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
         
   - title: TL1 Pre-doctoral Clinical Training Scholar, Supervised by Amanda Guyer, Ph.D.
-    company: Center for Mind & Brain, University of California, Davis
+    company: Center for Mind & Brain & University of California, Davis Health System
     company_url: 'https://mindbrain.ucdavis.edu/research/research-labs-folder/guyer-lab-splash'
-    company_logo: davis
+    company_logo: ucd
     location: California
     date_start: '2015-09-01'
     date_end: '2019-06-30'
