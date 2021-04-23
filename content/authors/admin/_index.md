@@ -17,14 +17,14 @@ organizations:
 Bio: Translational neuroscientist studying brain development and psychopathology during puberty.
 
 # Interests to show in About widget
-Interests:
+interests:
 - Adolescent Psychopathology
 - Developmental Neuroscience
 - Multimodal Brain Imaging Methods
 
 # Education to show in About widget
-Education:
-
+education:
+courses:
   - course: Ph.D. in Human Development with Designated Emphasis in Translational Science
     institution: University of California, Davis
     year: 2015-2019
