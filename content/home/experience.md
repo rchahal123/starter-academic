@@ -26,7 +26,7 @@ experience:
   - title: NIH F32 & Klingenstein Foundation Postdoctoral Scholar, Supervised by Ian Gotlib, Ph.D.
     company: Department of Psychology, Stanford University
     company_url: 'https://profiles.stanford.edu/rajpreet-chahal'
-    company_logo: org-gc
+    company_logo: stanford
     location: California
     date_start: '2021-01-01'
     date_end: ''
