@@ -30,7 +30,7 @@ experience:
     location: California
     date_start: '2021-01-01'
     date_end: ''
-    description: |Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
+    description: Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
         
   - title: Professor of Semiconductor Physics
     company: University X
