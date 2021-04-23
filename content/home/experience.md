@@ -29,16 +29,16 @@ experience:
     location: California
     date_start: '2019-09-01'
     date_end: ''
-    description: Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
+    description: |2- Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
         
-  - title: Graduate Student Researcher & TL1 Pre-doctoral Clinical Training Scholar (Supervisor: Amanda Guyer, Ph.D.)
+  - title: Graduate Student & TL1 Pre-doctoral Clinical Training Scholar (Supervisor: Amanda Guyer, Ph.D.)
     company: University of California Davis
     company_url: 'https://humandevelopment.ucdavis.edu/alumni-phd-human-development'
     company_logo: ucd
     location: California
     date_start: '2015-09-01'
     date_end: '2019-08-31'
-    description: Examined topographical signatures in white matter tracts as they reflect the history of depressive symptoms in adolescent girls, and patterns of functional connectivity, revealed by neural biotyping, as they forecast future internalizing symptoms in at-risk adolescents.
+    description: |2- Examined topographical signatures in white matter tracts as they reflect the history of depressive symptoms in adolescent girls, and patterns of functional connectivity, revealed by neural biotyping, as they forecast future internalizing symptoms in at-risk adolescents.
     
   - title: Research Specialist (Supervisors: Beatriz Luna, Ph.D., Michael Hallquist, Ph.D.)
     company: University of Pittsburgh Medical Center - Western Psychiatric Institute and Clinic
@@ -47,7 +47,7 @@ experience:
     location: Pennsylvania
     date_start: '2012-06-01'
     date_end: '2015-06-30'
-    description: Coordinated recruitment efforts and collected data for multiple longitudinal studies investigating cognitive development in typically-developing and at-risk children, adolescents, and adults. Tested subjects on behavioral and imaging protocols using eye-tracking, fMRI, MEG, and PET. Examined neural influences on incentive processing and inhibitory control and contributed to a review of literature on cognitive control development.
+    description: |2- Coordinated recruitment efforts and collected data for multiple longitudinal studies investigating cognitive development in typically-developing and at-risk children, adolescents, and adults. Tested subjects on behavioral and imaging protocols using eye-tracking, fMRI, MEG, and PET. Examined neural influences on incentive processing and inhibitory control and contributed to a review of literature on cognitive control development.
     
 design:
   columns: '2'
