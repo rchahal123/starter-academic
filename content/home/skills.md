@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: square-root
+  icon: less-than-equal
   icon_pack: fas
   name: Statistics
 - description: 
