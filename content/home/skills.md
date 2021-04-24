@@ -21,13 +21,21 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: chart-line
+  icon: square-root
   icon_pack: fas
   name: Statistics
 - description: 
   icon: brain
   icon_pack: fas
   name: Neuroimaging
+- description:
+  icon: chart-line
+  icon_pack: fas
+  name: Longitudinal Modeling
+- description: 
+  icon: fingerprint
+  icon_pack: fas
+  name: Precision Mental Health
 - description: 
   icon: dog
   icon_pack: fas
