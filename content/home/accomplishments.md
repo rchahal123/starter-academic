@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: "2023-04-31"
+  date_end: ""
   date_start: "2021-05-01"
   description: 
   organization: Klingenstein Third Generation Foundation 
@@ -32,7 +32,7 @@ item:
   title: Fellowship in Child & Adolescent Depression
   url: 
 - certificate_url: 
-  date_end: "2023-03-31"
+  date_end: ""
   date_start: "2020-04-01"
   description: 
   organization: National Institute of Mental Health
@@ -40,7 +40,7 @@ item:
   title: National Research Service Award (F32)
   url: 
 - certificate_url: 
-  date_end: "2019-06-01"
+  date_end: ""
   date_start: "2017-06-01"
   description: 
   organization: National Center for Advancing Translational Sciences
