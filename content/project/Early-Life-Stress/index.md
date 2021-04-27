@@ -1,6 +1,6 @@
 ---
 title: Early Life Stress
-summary: Early life stress is linked to psychopathology risk
+summary: Neurodevelopmental differences following early life stress may help us understand the mechanisms of risk for and resilience to depression in adolescence
 tags:
 - Early Life Stress
 date: "2021-04-26T00:00:00Z"
