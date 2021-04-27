@@ -1,6 +1,6 @@
 ---
 title: Early Life Stress
-summary: Neurodevelopmental differences following early life stress may help us understand the mechanisms of risk for and resilience to depression in adolescence
+summary: Understanding neurodevelopmental mechanisms of risk for and resilience to depression following early life stress
 tags:
 - Early Life Stress
 date: "2021-04-26T00:00:00Z"
