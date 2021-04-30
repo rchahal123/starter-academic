@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Postdoctoral Researcher
+role: Early Career Director of the Association for Clinical and Translational Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
