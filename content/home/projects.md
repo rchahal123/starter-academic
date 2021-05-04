@@ -33,10 +33,7 @@ content:
     tag: Early Life Stress
   - name: Puberty
     tag: Puberty
-  - name: Brain Functional Connectivity
-    tag: Functional Connectivity
-  - name: Brain Structural Connectivity
-    tag: Structural Connectivity
+
     
 
 design:
