@@ -13,7 +13,10 @@ address:
   country: 
 
 summary: Reward-Related Brain Activation, Resting-state Functional Connectivity, and White Matter Morphology Link Early Life Stress and Internalizing Symptoms in Adolescence
-abstract: " **Background**: 
+abstract: " **Symposium:** Reward Neurocircuitry and Adolescent Depression: The Roles of Familial Risk and Stress.
+
+
+**Background**: 
 Adolescents exposed to early life stress (ELS) are at increased risk for internalizing disorders, including depression and anxiety. Although blunted striatal activation (Hanson et al., 2015) and weaker functional connectivity between the prefrontal cortex and ventral striatum (Marshall et al., 2018) has been shown to mediate the association between ELS and internalizing symptoms, less is known about relations between ELS and reward-related white matter morphology. Further, no study has used a multimodal approach to investigate ELS-related differences in task-based activation, resting-state functional connectivity, and diffusion-based white matter morphology of reward processing circuits and their relation to internalizing symptoms. 
 
 
@@ -37,7 +40,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-04-29T00:00:00Z"
 
-authors: [Rajpreet Chahal, Lauren Borchers, Jaclyn Kirshenbaum, Joshua Ryu, Ian H. Gotlib]
+authors: [Rajpreet Chahal and Lauren Borchers]
 tags: []
 
 # Is this a featured talk? (true/false)
