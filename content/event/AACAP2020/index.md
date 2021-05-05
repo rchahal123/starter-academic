@@ -13,7 +13,7 @@ address:
   country: 
 
 summary: Early Life Stress Differentially Affects White Matter Tracts in Males and Females During Early Puberty: Associations with Internalizing and Externalizing Problems.
-abstract: " **Symposium:** Advancing Sex- and Gender-Based Research: Transitions Over the Life Course for Understanding Young Women’s Risk for Affective Psychopathology.
+abstract: "**Symposium:** Advancing Sex- and Gender-Based Research: Transitions Over the Life Course for Understanding Young Women’s Risk for Affective Psychopathology.
 
 
 **Background**: 
