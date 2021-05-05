@@ -73,7 +73,7 @@ url_video: ""
 #projects:
 #- example
 
-
+{{< youtube w7Ft2ymGmfc >}}
 
 ---
 
@@ -87,4 +87,4 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 
-{{< video src="my_video.mp4" controls="yes" >}}
+
