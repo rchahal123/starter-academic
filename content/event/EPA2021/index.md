@@ -1,4 +1,3 @@
-
 ---
 title: EPA 2021 Symposium Talk
 
