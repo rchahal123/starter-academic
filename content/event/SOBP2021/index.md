@@ -50,14 +50,14 @@ image:
 
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/Rajpreet_Chahal
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/Rajpreet_Chahal
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/YXqwrnoKbDI"
 
 
 # Markdown Slides (optional).
@@ -79,4 +79,6 @@ url_video: ""
 
 ---
 
+
+{{< youtube YXqwrnoKbDI >}}
 
