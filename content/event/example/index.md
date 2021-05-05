@@ -72,6 +72,9 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 #projects:
 #- example
+
+{{< video src="my_video.mp4" controls="yes" >}}
+
 ---
 
 
