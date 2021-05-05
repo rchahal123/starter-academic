@@ -47,7 +47,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-video: {{< youtube w7Ft2ymGmfc >}}
+
 
 links:
 - icon: twitter
