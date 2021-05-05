@@ -1,30 +1,43 @@
 ---
 title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Society of Biological Psychiatry
+event_url: https://sobp.org/meetings/2021-sobp-annual-meeting/
 
-location: Wowchemy HQ
+location: Virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Reward-Related Brain Activation, Resting-state Functional Connectivity, and White Matter Morphology Link Early Life Stress and Internalizing Symptoms in Adolescence
+abstract: "Background:
+Adolescents exposed to early life stress (ELS) are at increased risk for internalizing disorders, including depression and anxiety. Although blunted striatal activation (Hanson et al., 2015) and weaker functional connectivity between the prefrontal cortex and ventral striatum (Marshall et al., 2018) has been shown to mediate the association between ELS and internalizing symptoms, less is known about relations between ELS and reward-related white matter morphology. Further, no study has used a multimodal approach to investigate ELS-related differences in task-based activation, resting-state functional connectivity, and diffusion-based white matter morphology of reward processing circuits and their relation to internalizing symptoms. 
+
+
+Method:
+214 adolescents ages 9-14 (Mage=11.38) were recruited for a longitudinal study assessing effects of ELS on psychobiological development over puberty. Participants completed a child version of the Monetary Incentive Delay task (MID; Gotlib et al., 2010) while undergoing fMRI, a resting-state scan, and a diffusion imaging scan. Participants also completed the Youth Self-Report (Achenbach et al., 1991).
+
+
+Results:
+Across modalities, ELS severity was positively associated with internalizing symptoms only in participants with lower reward-related neurocircuitry metrics, including lower nucleus accumbens activation during gain vs. loss MID trials, resting-state reward network connectivity, and frontoaccumbal fiber density and cross-section (all ps<.05).
+
+
+Conclusions:
+Our findings suggest that lower structural and functional connectivity, as well as task-based activation of reward-processing regions are risk factors for internalizing symptoms in adolescents who have experienced higher levels of ELS. We will discuss how higher reward-processing neural activity and connectivity might buffer the effects of ELS on the emergence of internalizing symptoms."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-04-29T14:00:00Z"
+date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-04-29T00:00:00Z"
 
-authors: []
+authors: [Rajpreet Chahal, Lauren Borchers, Jaclyn Kirshenbaum, Joshua Ryu, Ian H. Gotlib]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -43,6 +56,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
+{{< video src="my_video.mp4" controls="yes" >}}
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
