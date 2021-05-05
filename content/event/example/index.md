@@ -37,7 +37,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-04-29T00:00:00Z"
 
-authors: [**Rajpreet Chahal, Lauren Borchers**, Jaclyn Kirshenbaum, Joshua Ryu, Ian H. Gotlib]
+authors: [Rajpreet Chahal, Lauren Borchers, Jaclyn Kirshenbaum, Joshua Ryu, Ian H. Gotlib]
 tags: []
 
 # Is this a featured talk? (true/false)
