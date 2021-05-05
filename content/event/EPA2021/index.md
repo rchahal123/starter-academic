@@ -41,7 +41,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-03-06"
 
-authors: [Rajpreet Chahal and Ian H. Gotlib]
+authors: [Rajpreet Chahal]
 tags: []
 
 # Is this a featured talk? (true/false)
