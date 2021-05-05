@@ -75,6 +75,13 @@ url_video: ""
 #projects:
 #- example
 
-{{< youtube w7Ft2ymGmfc >}}
+[[item]]
+title = "My Title"
+content = "a funny explanation"
+align = "center"
+youtube_id = "video id code on youtube" # or vimeo_id = "video id number on vimeo"
+overlay_color = "#555" # An HTML color value.
+overlay_img = "" # Image path relative to your static/img/ folder.
+overlay_filter = 0 # Darken the image. Value in range 0-1.
 
 ---
