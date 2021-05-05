@@ -1,3 +1,5 @@
+{{< youtube w7Ft2ymGmfc >}}
+
 ---
 title: EPA 2021 Symposium Talk
 
@@ -79,4 +81,3 @@ url_video: ""
 
 ---
 
-{{< youtube w7Ft2ymGmfc >}}
