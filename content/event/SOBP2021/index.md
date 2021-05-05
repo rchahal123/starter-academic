@@ -32,7 +32,7 @@ Our findings suggest that lower structural and functional connectivity, as well 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-04-29T14:00:00Z"
 date_end: ""
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-04-29T00:00:00Z"
