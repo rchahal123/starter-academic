@@ -54,9 +54,9 @@ image:
 
 links:
 #- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/Rajpreet_Chahal
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/Rajpreet_Chahal
 url_code: ""
 url_pdf: ""
 url_slides: ""
