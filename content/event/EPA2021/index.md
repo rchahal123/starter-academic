@@ -33,7 +33,7 @@ These findings highlight the interacting roles of biological and social variable
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-06"
 date_end: ""
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-03-06"
