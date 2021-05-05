@@ -75,7 +75,7 @@ url_video: ""
 #projects:
 #- example
 
-[[item]]
+
 title = "My Title"
 content = "a funny explanation"
 align = "center"
