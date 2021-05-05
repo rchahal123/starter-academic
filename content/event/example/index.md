@@ -74,7 +74,7 @@ url_video: ""
 #- example
 ---
 
-{{< video src="my_video.mp4" controls="yes" >}}
+
 
 Slides can be added in a few ways:
 
