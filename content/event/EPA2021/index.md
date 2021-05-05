@@ -14,7 +14,10 @@ address:
   country: 
 
 summary: Neural and Environmental Predictors of Symptoms of Psychopathology in Adolescents During the COVID-19 Pandemic
-abstract: " **Background**: 
+abstract: " **Symposium:** Developmental Invited Symposium: Impacts of COVID-19.
+
+
+**Background**: 
 Disruptions to daily life and enforced social distancing are some of the ways in which the COVID-19 pandemic is taking a toll on mental health, particularly in adolescents, who already are at higher risk for the emergence of psychopathology.
 
 
