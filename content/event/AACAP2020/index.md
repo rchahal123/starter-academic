@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Early Life Stress Differentially Affects White Matter Tracts in Males and Females During Early Puberty: Associations with Internalizing and Externalizing Problems
+summary: Early Life Stress Differentially Affects White Matter Tracts in Males and Females During Early Puberty: Associations with Internalizing and Externalizing Problems.
 abstract: " **Symposium:** Advancing Sex- and Gender-Based Research: Transitions Over the Life Course for Understanding Young Women’s Risk for Affective Psychopathology.
 
 
@@ -40,7 +40,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-10-23"
 
-authors: [Rajpreet Chahal and Ian H. Gotlib]
+authors: [Rajpreet Chahal]
 tags: []
 
 # Is this a featured talk? (true/false)
