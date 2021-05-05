@@ -57,7 +57,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
-{{< video src="my_video.mp4" controls="yes" >}}
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
