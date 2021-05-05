@@ -35,7 +35,7 @@ Distinct neurodevelopmental mechanisms may contribute to sex differences in the 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-10-23"
 date_end: ""
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-10-23"
