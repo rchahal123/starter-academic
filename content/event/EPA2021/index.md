@@ -2,7 +2,6 @@
 ---
 title: EPA 2021 Symposium Talk
 
-{{< youtube w7Ft2ymGmfc >}}
 
 event: Eastern Psychological Association
 event_url: https://www.easternpsychological.org/i4a/pages/index.cfm?pageid=1
@@ -82,3 +81,4 @@ url_video: ""
 
 ---
 
+{{< youtube w7Ft2ymGmfc >}}
