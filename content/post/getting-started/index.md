@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: NBC Stay Tuned Interview 
+subtitle: Can Brain Scans Predict COVID's Mental Toll?
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: NBC Stay Tuned Interview with Rajpreet Chahal, Ph.D. & Ian Gotlib, Ph.D. on 10/05/2020. Aired on SnapChat News on 10/07/2020
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-10-07T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+#lastmod: "2020-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,16 +30,22 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- Ian Gotlib
 
 tags:
 - Academic
-- 开源
+- Adolesecnce
+- COVID-19
+- Internalizing
+- Puberty
+- Neuroimaging
 
 categories:
-- Demo
-- 教程
+
 ---
+
+{{< youtube 6K3tYDSXkVc >}}
+
 
 ## Overview
 
