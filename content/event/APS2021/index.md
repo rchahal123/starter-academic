@@ -23,7 +23,8 @@ In 173 adolescents (99 females), ages 9-14 years (M=11.30, SD=1.08), we applied 
 On average, participants increased in internalizing and externalizing symptoms throughout puberty, however their trajectories varied significantly. Participants who belonged to  ECN and DMN subgroups with lower levels of connections between fronto-parietal and fronto-thalamic regions had higher initial levels of internalizing and externalizing symptoms, and showed no significant changes throughout puberty. One ECN subgroup, with greater frontal->parietal and parietal->frontal connections did not show an association between early life stress severity and internalizing symptoms. Conversely, participants who belonged to more inter-connected ECN and DMN subgroups had lower initial levels of internalizing symptoms that increased significantly throughout puberty. Neural subgroup differences in externalizing trajectories did not survive multiple comparisons corrections.
 
 **Conclusions:**
-Neural heterogeneity in early puberty is meaningfully related to the course of internalizing symptoms throughout puberty. Directed connections may reveal which youth may benefit from interventions offered at different developmental windows.
+Neural heterogeneity in early puberty is meaningfully related to the course of internalizing symptoms throughout puberty. Directed connections may reveal which youth may benefit from interventions offered at different developmental windows."
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-05-26T14:00:00Z"
