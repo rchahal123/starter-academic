@@ -51,7 +51,7 @@ categories:
 
 In this Stay-Tuned NBC Interview, Drs. Rajpreet Chahal and Ian Gotlib discuss mental health during the COVID-19 pandemic and the utility of brain scans in understanding who might be resilient to stress.
 
-{{< figure src="https://github.com/rchahal123/starter-academic/blob/0355087333767d30961860c0f8ef620fed48bbd6/content/post/getting-started/Screen%20Shot%202021-05-13%20at%201.47.04%20PM.png" title="Higher Executive Control Network Coherence Buffers Against Puberty-Related Increases in Internalizing Symptoms During the COVID-19 Pandemic" >}}
+{{< figure src="https://github.com/rchahal123/starter-academic/blob/0355087333767d30961860c0f8ef620fed48bbd6/content/post/getting-started/Screen%20Shot%202021-05-13%20at%201.47.04%20PM.png?raw=true" title="Higher Executive Control Network Coherence Buffers Against Puberty-Related Increases in Internalizing Symptoms During the COVID-19 Pandemic" >}}
 
 [**Read the paper here**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7455201/)
 
