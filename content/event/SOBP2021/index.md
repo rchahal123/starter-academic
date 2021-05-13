@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-04-29T00:00:00Z"
 
-authors: [Rajpreet Chahal, Ph.D. and Lauren Borchers, B.A.]
+authors: [Rajpreet Chahal and Lauren Borchers]
 tags: []
 
 # Is this a featured talk? (true/false)
