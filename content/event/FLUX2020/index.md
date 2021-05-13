@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-09-10"
 
-authors: [Rajpreet Chahal]
+authors: [Rajpreet Chahal, Ph.D.]
 tags: []
 
 # Is this a featured talk? (true/false)
