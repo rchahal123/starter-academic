@@ -30,7 +30,7 @@ image:
   url: https://news.stanford.edu/press-releases/2020/09/22/covid-19s-mental-toll-teens/
 
 authors:
-- Rajpreet Chahal
+- Adam Hadhazy at Stanford News
 
 
 tags:
