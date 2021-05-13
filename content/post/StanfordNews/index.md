@@ -27,6 +27,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  url: https://news.stanford.edu/press-releases/2020/09/22/covid-19s-mental-toll-teens/
 
 authors:
 - Rajpreet Chahal
