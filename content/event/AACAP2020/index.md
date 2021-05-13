@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Early Life Stress Differentially Affects White Matter Tracts in Males and Females During Early Puberty: Associations with Internalizing and Externalizing Problems
+summary: "Early Life Stress Differentially Affects White Matter Tracts in Males and Females During Early Puberty: Associations with Internalizing and Externalizing Problems"
 
 
 
