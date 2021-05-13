@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-
+summary: "Neural Subgroups Based on Directed Functional Networks Reflect Psychopathology Risk and Resilience"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
