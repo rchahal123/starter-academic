@@ -29,8 +29,8 @@ image:
   preview_only: true
 
 authors:
-- admin
-- Ian Gotlib, Ph.D.
+- Rajpreet Chahal
+- Ian Gotlib
 
 tags:
 - Academic
