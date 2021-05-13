@@ -1,6 +1,3 @@
----
-
-{{< youtube XuI_AOumwkM >}}
 
 ---
 title: APS 2021 Flash Talk
@@ -70,18 +67,13 @@ url_video: "https://youtu.be/XuI_AOumwkM"
 
 ---
 
-
+{{< youtube XuI_AOumwkM >}}
 
 
 ---
 
 ## Neural Subgroups Based on Directed Functional Networks Reflect Psychopathology Risk and Resilience ##
 
-**Event:** [Association for Psychological Science](https://www.psychologicalscience.org/conventions/2021-virtual)
-
-**Location:** Virtual
-
-**Date:** May 26, 2021
 
 ---
 
