@@ -11,10 +11,8 @@ address:
   region: 
   postcode: 
   country: 
-  
-  
 
-summary: ## Neural Subgroups Based on Directed Functional Networks Reflect Psychopathology Risk and Resilience ##
+summary: Neural Subgroups Based on Directed Functional Networks Reflect Psychopathology Risk and Resilience
 
 
 
