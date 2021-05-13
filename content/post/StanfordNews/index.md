@@ -46,7 +46,7 @@ categories:
 
 [**Click here to read the article**](https://news.stanford.edu/press-releases/2020/09/22/covid-19s-mental-toll-teens/)
 
-[**Click to download the article**](https://github.com/rchahal123/starter-academic/raw/master/content/post/StanfordNews/COVID-19%E2%80%99s%20mental%20toll%20on%20teens%20_%20Stanford%20News.pdf)
+[**Click here to download the article**](https://github.com/rchahal123/starter-academic/raw/master/content/post/StanfordNews/COVID-19%E2%80%99s%20mental%20toll%20on%20teens%20_%20Stanford%20News.pdf)
 
 
 ## Overview
