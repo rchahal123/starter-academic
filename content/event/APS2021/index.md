@@ -72,6 +72,8 @@ url_video: "https://youtu.be/XuI_AOumwkM"
 
 ## Neural Subgroups Based on Directed Functional Networks Reflect Psychopathology Risk and Resilience ##
 
+---
+
 
 **Background**: The onset of psychopathology peaks during adolescence; further, mental health disorders with onset during adolescence are associated with more severe and recurring symptoms in adulthood. Adolescence is also characterized by continued brain development, including refinement of functional networks (i.e., collections of brain regions with similar functions) that support cognitive and affective processing. While previous network studies of adolescent mental health have provided foundational knowledge of neurobiological abnormalities associated with specific mood symptoms and disorders, they have primarily examined contemporaneous correlations between the time series of brain regions and ignored temporal dynamics of fMRI signals. While correlations between time-series are simpler to calculate, simulation studies show that spurious connections are identified when researchers do not account for the temporal dependencies between brain regions. In this context, the Group Iterative Multiple Model Estimation (GIMME) is a data-driven approach that uses unified structural equation modeling to explain patterns of temporal covariation among variables. Using GIMME, we modeled directed functional connections at the group level and identified subgroups of individuals based on the similarity of their directed connectivity maps across the executive control and default mode brain networks. We then used Generalized Additive Mixed Models to test whether resulting neural subgroups differ in internalizing and externalizing symptom trajectories throughout puberty.
 
