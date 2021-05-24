@@ -31,6 +31,15 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
+    
+  - title: Early Career Director
+    company: The Association for Clinical & Translational Science
+    company_url: 'https://www.actscience.org/About/Leadership'
+    company_logo: acts
+    location: 
+    date_start: '2019-06-01'
+    date_end: ''
+    description: 
         
   - title: TL1 Pre-doctoral Clinical Training Scholar, Supervised by Amanda Guyer, Ph.D.
     company: Center for Mind & Brain & University of California, Davis Health System
