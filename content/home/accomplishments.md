@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Grants'
+title: 'Grants & Awards'
 subtitle:
 
 # Date format
@@ -47,14 +47,7 @@ item:
   organization_url: https://ncats.nih.gov/
   title: TL-1 Pre-Doctoral Clinical Training Scholar Award (2 years)
   url: 
-- certificate_url: 
-  date_end: "2019-12-31"
-  date_start: "2016-02-01"
-  description: 
-  organization: University of California Office of the President
-  organization_url: https://www.ucop.edu/
-  title: Seed Grant
-  url: 
+
 
 design:
   columns: '2' 
