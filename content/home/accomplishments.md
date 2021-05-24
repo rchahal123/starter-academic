@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards & Accomplish&shy;ments'
+title: 'Grants'
 subtitle:
 
 # Date format
@@ -27,9 +27,9 @@ item:
   date_end: ""
   date_start: "2021-05-01"
   description: 
-  organization: Klingenstein Third Generation Foundation 
-  organization_url: https://klingenstein.org/
-  title: Fellowship in Child & Adolescent Depression
+  organization: Klingenstein Third Generation Foundation
+  organization_url: https://klingenstein.org/grantees/grantee/ktg-fellowship-program-grantees/2021/rajpreet-chahal-ph-d/
+  title: Fellowship in Child & Adolescent Depression (2 years)
   url: 
 - certificate_url: 
   date_end: ""
@@ -37,15 +37,23 @@ item:
   description: 
   organization: National Institute of Mental Health
   organization_url: https://www.nimh.nih.gov/index.shtml
-  title: National Research Service Award (F32)
+  title: Ruth L. Kirschstein National Research Service Award (F32; 3 years)
   url: 
 - certificate_url: 
-  date_end: ""
+  date_end: "2019-06-01"
   date_start: "2017-06-01"
   description: 
   organization: National Center for Advancing Translational Sciences
   organization_url: https://ncats.nih.gov/
-  title: TL-1 Pre-Doctoral Clinical Training Scholar Award
+  title: TL-1 Pre-Doctoral Clinical Training Scholar Award (2 years)
+  url: 
+- certificate_url: 
+  date_end: "2019-12-31"
+  date_start: "2016-02-01"
+  description: 
+  organization: University of California Office of the President
+  organization_url: https://www.ucop.edu/
+  title: Seed Grant
   url: 
 
 design:
