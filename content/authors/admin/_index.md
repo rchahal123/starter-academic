@@ -21,6 +21,7 @@ interests:
 - Adolescent Psychopathology
 - Developmental Neuroscience
 - Multimodal Brain Imaging Methods
+- Precision Mental Health
 
 # Education to show in About widget
 education:
