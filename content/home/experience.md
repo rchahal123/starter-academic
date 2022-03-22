@@ -28,7 +28,7 @@ experience:
     company_url: 'https://profiles.stanford.edu/rajpreet-chahal'
     company_logo: stanford
     location: California
-    date_start: '2020-01-01'
+    date_start: '2019-09-01'
     date_end: ''
     description: Examining the effects of early life stress on the development of large-scale structural and functional brain circuits to understand when and in whom neurobiological alterations arise and confer risk for depression and suicidal ideation. The goal of this research is to guide person-centered approaches to detect vulnerability for and predict the course of depression.
     
