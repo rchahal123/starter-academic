@@ -16,18 +16,18 @@ authors:
 tags:
 - '"adolescence"'
 - '"Adolescence"'
+- '"Emotion"'
 - '"biological sensitivity to context"'
 - '"COVID-19"'
 - '"Developmental Psychology"'
+- '"Social and Behavioral Sciences"'
 - '"differential susceptibility"'
-- '"Emotion"'
 - '"Emotional Development"'
 - '"heart rate variability"'
 - '"Physiology"'
-- '"Social and Behavioral Sciences"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-04-23T09:32:56-07:00
+lastmod: 2022-03-21T17:55:22-07:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:56.568449Z'
+publishDate: '2022-03-22T00:55:22.721160Z'
 publication_types:
 - '2'
 abstract: The COVID-19 pandemic is a unique period of stress and uncertainty that

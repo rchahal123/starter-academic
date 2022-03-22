@@ -13,12 +13,12 @@ authors:
 - Ian H. Gotlib
 tags:
 - '"Adolescence"'
+- '"White matter"'
 - '"Early life stress"'
 - '"Internalizing problems"'
-- '"White matter"'
 categories: []
 date: '2021-02-01'
-lastmod: 2021-04-23T09:32:56-07:00
+lastmod: 2022-03-21T17:55:22-07:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:56.295699Z'
+publishDate: '2022-03-22T00:55:22.450015Z'
 publication_types:
 - '2'
 abstract: Early life stress (ELS) is associated with increased risk for internalizing

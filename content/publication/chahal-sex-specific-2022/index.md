@@ -1,0 +1,73 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Sex-specific vulnerability to depressive symptoms across adolescence and during
+  the COVID-19 pandemic: The role of the cingulum bundle'
+subtitle: ''
+summary: ''
+authors:
+- Rajpreet Chahal
+- Tiffany C. Ho
+- Jonas G. Miller
+- Lauren R. Borchers
+- Ian H. Gotlib
+tags:
+- '"adolescence"'
+- '"cingulum"'
+- '"COVID-19"'
+- '"depression"'
+- '"resilience"'
+- '"sex differences"'
+categories: []
+date: '2022-01-01'
+lastmod: 2022-03-21T17:55:23-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-03-22T00:55:23.261221Z'
+publication_types:
+- '2'
+abstract: Background Females are at higher risk for developing depression during adolescence
+  than are males, particularly during exposure to stressors like the COVID-19 pandemic.
+  Examining structural connections between brain regions involved in executive functioning
+  may advance our understanding of sex biases in stress and depression. Here, we examined
+  the role of the cingulum bundle in differentiating trajectories of depressive symptoms
+  in males and females across adolescence and during the pandemic. Methods In a longitudinal
+  study of 214 youth (121 females; ages 9–13 years at baseline), we examined whether
+  fixel-based properties of the cingulum bundle at baseline predict changes in females'
+  and males' severity of depressive symptoms across four timepoints (4–7 years) in
+  adolescence, including during the COVID-19 pandemic. We also tested whether cingulum
+  properties predict self-reported resilience and stress during the pandemic. Results
+  Females had lower fiber density and cross-section (FDC) of the cingulum than did
+  males, a neural pattern that predicted greater increases in depressive symptoms,
+  lower resilience, and higher stress during the COVID-19 pandemic. Cingulum morphometry
+  predicted changes in depressive trajectories in females, but not in males; specifically,
+  females with lower FDC had significant increases in symptoms throughout adolescence,
+  whereas females with higher cingulum FDC did not. Conversely, males had low, stable
+  depressive symptoms throughout adolescence and higher resilience and lower stress
+  during the pandemic compared to females. Higher cingulum FDC predicted higher resilience
+  and lower stress in both sexes. Conclusions In adults, the cingulum has been implicated
+  in sex differences in stress reactivity. We show that in adolescents, the cingulum
+  reflects sex differences in reports of stress and resilience that might contribute
+  to the increased risk of stress-related mood disorders in females. Adolescent females
+  might benefit from cognitive interventions that strengthen the structural properties
+  of the cingulum and increase their perceived resilience during periods of adversity
+  and disruption.
+publication: '*JCPP Advances*'
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcv2.12061
+doi: 10.1002/jcv2.12061
+---

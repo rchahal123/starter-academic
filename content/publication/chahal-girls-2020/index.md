@@ -15,14 +15,14 @@ authors:
 - Kate Keenan
 - Amanda E. Guyer
 tags:
+- '"depression"'
 - '"Adolescence"'
+- '"development"'
 - '"brain imaging"'
 - '"connectomics"'
-- '"depression"'
-- '"development"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-04-23T09:32:56-07:00
+lastmod: 2022-03-21T17:55:22-07:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:56.705366Z'
+publishDate: '2022-03-22T00:55:22.852499Z'
 publication_types:
 - '2'
 abstract: Background Girls’ depressive symptoms typically increase in adolescence,

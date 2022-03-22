@@ -14,28 +14,28 @@ authors:
 - Beatriz Luna
 tags:
 - '"Adolescent"'
-- '"Adult"'
-- '"Child"'
-- '"Development"'
-- '"Exploratory Behavior"'
-- '"Eye Movement Measurements"'
 - '"Female"'
-- '"fMRI"'
-- '"Follow-Up Studies"'
-- '"Human Development"'
 - '"Humans"'
 - '"Magnetic Resonance Imaging"'
 - '"Male"'
-- '"Nucleus Accumbens"'
-- '"Personality"'
+- '"Follow-Up Studies"'
 - '"Reward"'
-- '"Risk-Taking"'
-- '"Sensation seeking"'
-- '"Task Performance and Analysis"'
 - '"Young Adult"'
+- '"Child"'
+- '"Personality"'
+- '"Adult"'
+- '"fMRI"'
+- '"Risk-Taking"'
+- '"Nucleus Accumbens"'
+- '"Development"'
+- '"Task Performance and Analysis"'
+- '"Human Development"'
+- '"Exploratory Behavior"'
+- '"Eye Movement Measurements"'
+- '"Sensation seeking"'
 categories: []
 date: '2017-02-01'
-lastmod: 2021-04-23T09:32:55-07:00
+lastmod: 2022-03-21T17:55:21-07:00
 featured: false
 draft: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:55.473513Z'
+publishDate: '2022-03-22T00:55:21.592321Z'
 publication_types:
 - '2'
 abstract: Sensation seeking is a personality construct associated with an increased

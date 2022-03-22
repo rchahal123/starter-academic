@@ -13,13 +13,13 @@ authors:
 - Amanda E. Guyer
 tags:
 - '"fMRI"'
+- '"young adulthood"'
 - '"peers"'
 - '"popularity"'
 - '"Social influence"'
-- '"young adulthood"'
 categories: []
 date: '2021-04-01'
-lastmod: 2021-04-23T09:32:56-07:00
+lastmod: 2022-03-21T17:55:23-07:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:56.841576Z'
+publishDate: '2022-03-22T00:55:22.986676Z'
 publication_types:
 - '2'
 abstract: Young adults are acutely sensitive to peer influences. Differences have

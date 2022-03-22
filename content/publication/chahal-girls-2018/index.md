@@ -14,23 +14,23 @@ authors:
 - Kate Keenan
 - Amanda E. Guyer
 tags:
-- '"Adolescence"'
 - '"Adolescent"'
-- '"Adult"'
-- '"Child"'
-- '"Diffusion Tensor Imaging"'
-- '"DTI"'
 - '"Female"'
-- '"Human Development"'
 - '"Humans"'
 - '"Prospective Studies"'
-- '"Puberty"'
-- '"White matter"'
-- '"White Matter"'
 - '"Young Adult"'
+- '"Child"'
+- '"Puberty"'
+- '"Adult"'
+- '"Diffusion Tensor Imaging"'
+- '"White Matter"'
+- '"Adolescence"'
+- '"DTI"'
+- '"White matter"'
+- '"Human Development"'
 categories: []
 date: '2018-11-01'
-lastmod: 2021-04-23T09:32:55-07:00
+lastmod: 2022-03-21T17:55:21-07:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:55.611936Z'
+publishDate: '2022-03-22T00:55:21.734506Z'
 publication_types:
 - '2'
 abstract: Patterns of pubertal maturation have been linked to vulnerability for emotion

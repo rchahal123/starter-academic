@@ -14,13 +14,13 @@ authors:
 - Tiffany C. Ho
 tags:
 - '"adolescence"'
-- '"COVID-19"'
 - '"depression"'
 - '"early life stress"'
+- '"COVID-19"'
 - '"perceived stress"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-04-23T09:32:56-07:00
+lastmod: 2022-03-21T17:55:22-07:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:56.433330Z'
+publishDate: '2022-03-22T00:55:22.588570Z'
 publication_types:
 - '2'
 abstract: "Background: Exposure to early life stress (ELS) is alarmingly prevalent\

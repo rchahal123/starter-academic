@@ -10,15 +10,15 @@ authors:
 - Ian H. Gotlib
 - Amanda E. Guyer
 tags:
-- '"adolescence"'
-- '"brain networks"'
-- '"connectivity"'
 - '"Depression"'
+- '"adolescence"'
+- '"connectivity"'
 - '"heterogeneity"'
+- '"brain networks"'
 - '"precision mental health"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-04-23T09:32:55-07:00
+lastmod: 2022-03-21T17:55:22-07:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-23T16:32:55.750604Z'
+publishDate: '2022-03-22T00:55:21.877996Z'
 publication_types:
 - '2'
 abstract: Background Adolescence is a period of high risk for the onset of depression,
