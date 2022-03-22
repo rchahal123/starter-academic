@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: "An exploration of dimensions of early adversity and the development of functional brain network connectivity during adolescence: Implications for trajectories of internalizing symptoms"
+summary: "An Exploration of Dimensions of Early Adversity and the Development of Functional Brain Network Connectivity During Adolescence: Implications for Trajectories of Internalizing Symptoms"
 
 
 # Talk start and end times.
